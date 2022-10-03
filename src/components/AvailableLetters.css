@@ -1,0 +1,23 @@
+.word-button {
+  width: 2.8rem;
+  height: 3.8rem;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d6cda4;
+  opacity: 2;
+  margin: 0.5rem 1.2rem;
+  border: none;
+  font-size: 2.5rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.word-button:hover {
+  background-color: rgb(56, 108, 210);
+}
+.disabled {
+  background-color: gray;
+}
+.disabled:hover {
+  background-color: grey;
+}

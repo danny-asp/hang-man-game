@@ -1,0 +1,8 @@
+.figure-container {
+  fill: transparent;
+  stroke: #d6cda4;
+  stroke-width: 6px;
+  stroke-linecap: round;
+  margin: 0.5rem;
+  padding-left: 1.2rem;
+}

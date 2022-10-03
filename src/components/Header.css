@@ -1,0 +1,14 @@
+.header {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #eef2e6;
+  font-size: 5rem;
+  padding: 1.5rem 0 1rem;
+  letter-spacing: 0.5rem;
+  width: 100%;
+  overflow: auto;
+}
+.description {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #eef2e6;
+}

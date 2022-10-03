@@ -1,0 +1,21 @@
+/* .word-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 2rem;
+} */
+
+.word {
+  width: 3.5rem;
+  height: 3.5rem;
+  margin: 2rem 1.2rem;
+  font-size: 4rem;
+  color: rgb(204, 183, 61);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border-bottom: 6px solid #d6cda4;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
